@@ -37,59 +37,30 @@
 
 
 ###
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=mthangit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&hide=stars,issues&show=prs_merged,prs_merged_percentage"alt="stats graph"  />
+  <img  src="https://streak-stats.demolab.com?user=mthangit&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" alt="streak graph"  />
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mthangit&locale=en&hide_title=false&layout=donut&langs_count=6&theme=react&hide_border=false&hide=HTML,CSS,SCSS,Blade&size_weight=0.5&count_weight=0.5" alt="languages graph"  />
+<!--       <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div> 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,cpp,cs,php,java,latex,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,firebase,mongodb,mysql,flask,laravel,github,docker,postman,androidstudio" /><br>
+</p>
+</div>
+<hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mthangit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mthangit&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mthangit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng3cHVncWcwbGt3czB1ZXh2bzQ4bXlzcDJiOHVrM3ZlbXRqbnVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GcSqyYa2aF8dy/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="35" alt="sqlalchemy logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" height="35" alt="microsoftsqlserver logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-</div>
-
-###
-
-###
-
-<br clear="both">
-
+  <h2>🐍 My Contributions 🐍</h2>
 <img src="https://raw.githubusercontent.com/mthangit/mthangit/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/>
+</div>
+<hr/>
 
-###
