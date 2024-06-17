@@ -5,15 +5,13 @@
 <br/>
 ###
 
-<h4 align="left">🌱 I’m interested in DevOps, Mobile and System Design<br>👨‍💻 My website: <a href="https://manhthang.id.vn">manhthang.id.vn</a><br>📫 How to reach me: manhthang085213@gmail.com</h4>
-
 <div align="left">
  
- 🔭 I’m interested in DevOps, Mobile, and System Design
+ 🔭 I’m interested in **DevOps, Mobile, and System Design**.
 
- 👨‍💻 My website: <a href="https://manhthang.id.vn">manhthang.id.vn</a>
+ 👨‍💻 My website: **<a href="https://manhthang.id.vn">manhthang.id.vn</a>**.
   
- 📫 How to reach me: <a href="mailto:manhthang085213@gmail.com">manhthang085213@gmail.com</a>
+ 📫 How to reach me: **<a href="mailto:manhthang085213@gmail.com">manhthang085213@gmail.com</a>**.
 
  </div>
 
