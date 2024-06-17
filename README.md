@@ -11,7 +11,7 @@
  
  🔭 I’m interested in **DevOps, Mobile, and System Design**.
 
- 👨‍💻 My website: **<a href="https://manhthang.id.vn">manhthang.id.vn</a>**.
+ 👨‍💻 My website: **<a href="https://manhthang.id.vn" target="_blank">manhthang.id.vn</a>**.
   
  📫 How to reach me: **<a href="mailto:manhthang085213@gmail.com">manhthang085213@gmail.com</a>**.
 
