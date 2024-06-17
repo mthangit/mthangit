@@ -87,21 +87,6 @@
 
 ###
 
-<div align="center">
-  <a href="mailto:manhthang085213@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mthangit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="t.me/mthangit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://dev.to/mthangit" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="50" height="35" alt="devto logo"  />
-  </a>
-</div>
-
 ###
 
 <br clear="both">
