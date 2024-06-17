@@ -2,10 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thang!;" />
 </h1>
 <h2 align="center">A backend developer with a deep passion for technology and traveling</h2>
-
+<br/>
 ###
 
 <h4 align="left">🌱 I’m interested in DevOps, Mobile and System Design<br>👨‍💻 My website: <a href="https://manhthang.id.vn">manhthang.id.vn</a><br>📫 How to reach me: manhthang085213@gmail.com</h4>
+
+<div align="left">
+ 
+ 🔭 I’m interested in DevOps, Mobile, and System Design
+
+ 👨‍💻 My website: <a href="https://manhthang.id.vn">manhthang.id.vn</a>
+  
+ 📫 How to reach me: <a href="mailto:manhthang085213@gmail.com">manhthang085213@gmail.com</a>
+
+ </div>
 
 ###
 
