@@ -58,10 +58,9 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-<!-- <img src="https://raw.githubusercontent.com/mthangit/mthangit/output/snake.svg" alt="Snake animation" />
-   -->
-    ![snake animation](https://github.com/mthangit/mthangit/blob/output/github-contribution-grid-snake2.svg)
-  <br/><br/>
+    <img src="https://raw.githubusercontent.com/mthangit/mthangit/output/snake.svg" alt="Snake animation" />
+<!--     ![snake animation](https://github.com/mthangit/mthangit/blob/output/github-contribution-grid-snake2.svg)
+  <br/><br/> -->
 </div>
 <hr/>
 
