@@ -64,7 +64,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mthangit/mthangit/output/github-contribution-grid-snake.svg">
 </picture>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mthangit/mthangit/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mthangit/mthangit/output/github-contribution-grid-snake.svg" /> -->
   <br/><br/>
 </div>
 <hr/>
