@@ -9,9 +9,7 @@
 
 <div align="left">
  
- 🔭 I’m interested in **DevOps, Mobile, and System Design**.
-
- 👨‍💻 My website: **<a href="https://manhthang.id.vn" target="_blank">manhthang.id.vn</a>**.
+ 🔭 I’m interested in **Distributed System, Traveling, Sleep**.
   
  📫 How to reach me: **<a href="mailto:manhthang085213@gmail.com">manhthang085213@gmail.com</a>**.
 
@@ -51,7 +49,7 @@
 <div align="center">
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,cpp,cs,php,java,latex,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,typescript,firebase,mongodb,mysql,flask,laravel,github,docker,postman,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,firebase,mongodb,mysql,fastapi,laravel,github,docker,k8s,postman" /><br>
 </p>
 </div>
 <hr/>
